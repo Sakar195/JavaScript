@@ -23,5 +23,22 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 let n = 0
 let stringN = String(n)
-console.log(stringN);
-console.log(typeof stringN);
+//console.log(stringN);
+//console.log(typeof stringN);
+
+
+// ******** Operations ********
+
+let value = 66
+let negativeValue = -value
+//console.log(negativeValue);
+
+// console.log("1" + 1); //11
+// console.log(2 + "1"); //21
+// console.log("1"+2 +2 ); //122
+// console.log(1+2 +"2" ); //32
+
+
+//console.log(+true); //1  bad practice
+//console.log(+""); //0   bad practice
+
