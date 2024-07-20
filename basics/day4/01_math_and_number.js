@@ -17,6 +17,7 @@ const hundreds = 1000000
 //console.log(hundreds.toLocaleString());  // 1,000,000
 //console.log(hundreds.toLocaleString('en-IN'));  // 10,00,000
 
+
 // ++++++++++++++++ Maths ++++++++++
 
 //console.log(Math); 
